@@ -1,0 +1,1 @@
+[02-Jul-2019 09:33:40 UTC] PHP Fatal error:  Call to a member function get_tour() on null in /home/vugiatgl5pu0/public_html/application/controllers/Tintuc.php on line 36
